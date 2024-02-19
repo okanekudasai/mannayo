@@ -1,0 +1,6 @@
+[submodule "manna_frontend"]
+	path = manna_frontend
+	url = https://github.com/okanekudasai/manna_frontend.git
+[submodule "manna_backend"]
+	path = manna_backend
+	url = https://github.com/okanekudasai/manna_backend.git
